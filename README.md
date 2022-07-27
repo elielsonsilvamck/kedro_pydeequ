@@ -1,8 +1,8 @@
-# kedro_pydeequ
+# Kedro Pydeequ Integration Hooks
 
 ## Overview
 
-This is your new Kedro project, which was generated using `Kedro 0.18.1`.
+This is your new Kedro project, which was generated using `Kedro 0.18.1` integrating PyDeequ Framework
 
 Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get started.
 
